@@ -1,6 +1,5 @@
-# Konekt AI
+<img width="1563" height="480" alt="Konekt Logo - Blue-Green Gradient Design - 1 - Editado" src="https://github.com/user-attachments/assets/1dad9e8c-2498-40ae-bb03-434ee9c6a861" />
 
-![Konekt AI](https://konektmx.com/logo.png)
 
 ##  Acerca de Konekt AI
 
